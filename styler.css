@@ -1,0 +1,15 @@
+h1 {
+    color: darkblue;
+    font-family: Impact;
+}
+
+.fancy {
+    font-family: Chalkduster;
+    font-size: 50px;
+    background-color: crimson;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+}
